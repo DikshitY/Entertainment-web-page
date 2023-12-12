@@ -6,7 +6,6 @@ const fetchMovies = createAsyncThunk("movies/fetch", async () => {
     "http://localhost:3007/movies"
   );
 
-  console.log(response.data);
   return response.data;
 });
 

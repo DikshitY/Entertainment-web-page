@@ -1,9 +1,1733 @@
 {
-  "movies": [],
-  "trendingMovies": [],
-  "recommendedMovies": [],
-  "tvSeries": [],
-  "bookmarked": []
+  "movies": [
+    [
+      {
+        "adult": false,
+        "backdrop_path": "/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "id": 897087,
+        "original_language": "en",
+        "original_title": "Freelance",
+        "overview": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+        "popularity": 2367.027,
+        "poster_path": "/zDb5YeHSGGMlS6eqhUXcVU2OzAJ.jpg",
+        "release_date": "2023-10-05",
+        "title": "Freelance",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 184
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1X7vow16X7CnCoexXh4H4F2yDJv.jpg",
+        "genre_ids": [
+          80,
+          18,
+          36
+        ],
+        "id": 466420,
+        "original_language": "en",
+        "original_title": "Killers of the Flower Moon",
+        "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.",
+        "popularity": 1806.389,
+        "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+        "release_date": "2023-10-18",
+        "title": "Killers of the Flower Moon",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 1256
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k1KrbaCMACQiq7EA0Yhw3bdzMv7.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          10402,
+          14,
+          35
+        ],
+        "id": 901362,
+        "original_language": "en",
+        "original_title": "Trolls Band Together",
+        "overview": "When Branch's brother, Floyd, is kidnapped for his musical talents by a pair of nefarious pop-star villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop-culture obscurity.",
+        "popularity": 1560.713,
+        "poster_path": "/sEaLO9s7CIN3fjz8R3Qksum44en.jpg",
+        "release_date": "2023-10-12",
+        "title": "Trolls Band Together",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 323
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9PqD3wSIjntyJDBzMNuxuKHwpUD.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "id": 1075794,
+        "original_language": "en",
+        "original_title": "Leo",
+        "overview": "Jaded 74-year-old lizard Leo has been stuck in the same Florida classroom for decades with his terrarium-mate turtle. When he learns he only has one year left to live, he plans to escape to experience life on the outside but instead gets caught up in the problems of his anxious students — including an impossibly mean substitute teacher.",
+        "popularity": 1303.89,
+        "poster_path": "/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",
+        "release_date": "2023-11-17",
+        "title": "Leo",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 493
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
+        "genre_ids": [
+          35,
+          10751,
+          14
+        ],
+        "id": 787699,
+        "original_language": "en",
+        "original_title": "Wonka",
+        "overview": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+        "popularity": 1256.256,
+        "poster_path": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+        "release_date": "2023-12-06",
+        "title": "Wonka",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 60
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jhpsTzbXEu5bkCPmBqxv7vUTjIT.jpg",
+        "genre_ids": [
+          14,
+          12,
+          878,
+          28
+        ],
+        "id": 566810,
+        "original_language": "en",
+        "original_title": "Dragon Kingdom",
+        "overview": "To save their Kingdom from an army of undead, a group of warriors must travel through the forbidden lands fighting the fearsome beasts that call The Dark Kingdom their home.",
+        "popularity": 1184.555,
+        "poster_path": "/o7StI2iR8yY1N67meSkNcXfojyD.jpg",
+        "release_date": "2018-11-26",
+        "title": "The Dark Kingdom",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 33
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 872585,
+        "original_language": "en",
+        "original_title": "Oppenheimer",
+        "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+        "popularity": 1071.012,
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "release_date": "2023-07-19",
+        "title": "Oppenheimer",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 5309
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mIpdOcss3oedSYB8juiSXg89uLL.jpg",
+        "genre_ids": [
+          28,
+          878,
+          12,
+          53
+        ],
+        "id": 479753,
+        "original_language": "en",
+        "original_title": "Shockwave: Countdown to Disaster",
+        "overview": "A stolen seismic weapon is activated in Yemen. A hostage freed there tries in vain to warn against its global effect. It starts seismic activity at the Californian fault line where her daughter and ex are monitoring it. Can they stop it?",
+        "popularity": 1049.257,
+        "poster_path": "/sBD608VF4TcFHmP7SuC0OcvZQ0b.jpg",
+        "release_date": "2017-09-02",
+        "title": "Shockwave: Countdown to Disaster",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 52
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3xvdNyZ9WsVJpyeGhm85fukeZz4.jpg",
+        "genre_ids": [
+          878,
+          9648,
+          53
+        ],
+        "id": 1001835,
+        "original_language": "en",
+        "original_title": "Wifelike",
+        "overview": "A grieving detective in the near-future hunts down criminals who trade artificial humans on the black market. In the fight to end AI exploitation, an underground resistance attempts to infiltrate him by sabotaging the programming of the artificial human assigned as his companion to behave like his late wife. She begins to question her reality as memories of a past life begin to surface in a world where nothing is as it seems.",
+        "popularity": 905.273,
+        "poster_path": "/tea2gDZPxw0wfKC2S2VRWHagtt4.jpg",
+        "release_date": "2022-08-12",
+        "title": "Wifelike",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 188
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t5zCBSB5xMDKcDqe91qahCOUYVV.jpg",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "id": 507089,
+        "original_language": "en",
+        "original_title": "Five Nights at Freddy's",
+        "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+        "popularity": 880.311,
+        "poster_path": "/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
+        "release_date": "2023-10-25",
+        "title": "Five Nights at Freddy's",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 2736
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ixhr0YVs0Du0fPIYQSYYOIf3j0R.jpg",
+        "genre_ids": [
+          878,
+          28
+        ],
+        "id": 854648,
+        "original_language": "en",
+        "original_title": "Robot Apocalypse",
+        "overview": "An expert hacker is targeted by a sentient AI after she realizes the threat it poses, and she must try to stay off its radar long enough to stop it.",
+        "popularity": 877.365,
+        "poster_path": "/hULzHYoJRyLmQgMXHh2AwFM83uY.jpg",
+        "release_date": "2021-07-26",
+        "title": "Robot Apocalypse",
+        "video": false,
+        "vote_average": 2.1,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4MUfDtBqUFqotGF5RJOfNfoBTLo.jpg",
+        "genre_ids": [
+          28,
+          27,
+          14
+        ],
+        "id": 951546,
+        "original_language": "en",
+        "original_title": "Reign of Chaos",
+        "overview": "When the world is gripped by a plague unleashed by the evil lord Chaos, and humans are turned into rabid creatures, mankind can only be saved by three young women, descendants of a Goddess, with the power to stop Chaos' evil.",
+        "popularity": 869.204,
+        "poster_path": "/nTMmpvR9TyV631tpFr4FtYxG0FC.jpg",
+        "release_date": "2022-04-12",
+        "title": "Reign of Chaos",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 23
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg",
+        "genre_ids": [
+          28,
+          12,
+          18
+        ],
+        "id": 670292,
+        "original_language": "en",
+        "original_title": "The Creator",
+        "overview": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war—and mankind itself.",
+        "popularity": 852.508,
+        "poster_path": "/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg",
+        "release_date": "2023-09-27",
+        "title": "The Creator",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 1373
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 385687,
+        "original_language": "en",
+        "original_title": "Fast X",
+        "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+        "popularity": 794.03,
+        "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+        "release_date": "2023-05-17",
+        "title": "Fast X",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 4426
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg",
+        "genre_ids": [
+          28,
+          12,
+          53
+        ],
+        "id": 299054,
+        "original_language": "en",
+        "original_title": "Expend4bles",
+        "overview": "Armed with every weapon they can get their hands on and the skills to use them, The Expendables are the world’s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give “new blood” a whole new meaning.",
+        "popularity": 724.55,
+        "poster_path": "/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
+        "release_date": "2023-09-15",
+        "title": "Expend4bles",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 881
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
+        "genre_ids": [
+          28,
+          10749,
+          18
+        ],
+        "id": 695721,
+        "original_language": "en",
+        "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+        "popularity": 722.276,
+        "poster_path": "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+        "release_date": "2023-11-15",
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 640
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iaMIylLoN7Y3CvrA0pg2ZFKjk26.jpg",
+        "genre_ids": [
+          10752,
+          18,
+          28
+        ],
+        "id": 1047925,
+        "original_language": "en",
+        "original_title": "Come Out Fighting",
+        "overview": "In WWII, a squad of U.S. African-American soldiers are sent on a rescue mission behind enemy lines to locate their lost commanding officer and a downed fighter pilot.",
+        "popularity": 684.519,
+        "poster_path": "/sERwJxz0sqsbcUoTm66l9pI6HcH.jpg",
+        "release_date": "2023-05-19",
+        "title": "Come Out Fighting",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 25
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oqbcmZJJ1EWkOPiGjqABaUN18rI.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "id": 1046032,
+        "original_language": "en",
+        "original_title": "The Bad Guys: A Very Bad Holiday",
+        "overview": "To keep their annual Holiday Heist-tacular afloat, Mr. Wolf and his crew of animal outlaws will have to restore the whole city's Christmas spirit — fast!",
+        "popularity": 674.721,
+        "poster_path": "/atBDD05PbVDI2lm2OUy1KFQpzen.jpg",
+        "release_date": "2023-11-30",
+        "title": "The Bad Guys: A Very Bad Holiday",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 28
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/h56edmERPTkey89SqyKu4hINVNy.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 575264,
+        "original_language": "en",
+        "original_title": "Mission: Impossible - Dead Reckoning Part One",
+        "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
+        "popularity": 673.339,
+        "poster_path": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+        "release_date": "2023-07-08",
+        "title": "Mission: Impossible - Dead Reckoning Part One",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 2660
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+        "genre_ids": [
+          878,
+          12,
+          28
+        ],
+        "id": 609681,
+        "original_language": "en",
+        "original_title": "The Marvels",
+        "overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+        "popularity": 624.688,
+        "poster_path": "/vcuYWKOONDTxkIv9O0kzCU2fQKi.jpg",
+        "release_date": "2023-11-08",
+        "title": "The Marvels",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 646
+      }
+    ]
+  ],
+  "trendingMovies": [
+    [
+      {
+        "adult": false,
+        "backdrop_path": "/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "id": 897087,
+        "original_language": "en",
+        "original_title": "Freelance",
+        "overview": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+        "popularity": 2367.027,
+        "poster_path": "/zDb5YeHSGGMlS6eqhUXcVU2OzAJ.jpg",
+        "release_date": "2023-10-05",
+        "title": "Freelance",
+        "video": false,
+        "vote_average": 6.438,
+        "vote_count": 193
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1X7vow16X7CnCoexXh4H4F2yDJv.jpg",
+        "genre_ids": [
+          80,
+          18,
+          36
+        ],
+        "id": 466420,
+        "original_language": "en",
+        "original_title": "Killers of the Flower Moon",
+        "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.",
+        "popularity": 1806.389,
+        "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+        "release_date": "2023-10-18",
+        "title": "Killers of the Flower Moon",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 1271
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k1KrbaCMACQiq7EA0Yhw3bdzMv7.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          10402,
+          14,
+          35
+        ],
+        "id": 901362,
+        "original_language": "en",
+        "original_title": "Trolls Band Together",
+        "overview": "When Branch's brother, Floyd, is kidnapped for his musical talents by a pair of nefarious pop-star villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop-culture obscurity.",
+        "popularity": 1560.713,
+        "poster_path": "/sEaLO9s7CIN3fjz8R3Qksum44en.jpg",
+        "release_date": "2023-10-12",
+        "title": "Trolls Band Together",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 325
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9PqD3wSIjntyJDBzMNuxuKHwpUD.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "id": 1075794,
+        "original_language": "en",
+        "original_title": "Leo",
+        "overview": "Jaded 74-year-old lizard Leo has been stuck in the same Florida classroom for decades with his terrarium-mate turtle. When he learns he only has one year left to live, he plans to escape to experience life on the outside but instead gets caught up in the problems of his anxious students — including an impossibly mean substitute teacher.",
+        "popularity": 1303.89,
+        "poster_path": "/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",
+        "release_date": "2023-11-17",
+        "title": "Leo",
+        "video": false,
+        "vote_average": 7.559,
+        "vote_count": 500
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
+        "genre_ids": [
+          35,
+          10751,
+          14
+        ],
+        "id": 787699,
+        "original_language": "en",
+        "original_title": "Wonka",
+        "overview": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+        "popularity": 1256.256,
+        "poster_path": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+        "release_date": "2023-12-06",
+        "title": "Wonka",
+        "video": false,
+        "vote_average": 7.09,
+        "vote_count": 67
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t5zCBSB5xMDKcDqe91qahCOUYVV.jpg",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "id": 507089,
+        "original_language": "en",
+        "original_title": "Five Nights at Freddy's",
+        "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+        "popularity": 880.311,
+        "poster_path": "/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
+        "release_date": "2023-10-25",
+        "title": "Five Nights at Freddy's",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 2740
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
+        "genre_ids": [
+          28,
+          10749,
+          18
+        ],
+        "id": 695721,
+        "original_language": "en",
+        "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+        "popularity": 722.276,
+        "poster_path": "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+        "release_date": "2023-11-15",
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "video": false,
+        "vote_average": 7.282,
+        "vote_count": 647
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oqbcmZJJ1EWkOPiGjqABaUN18rI.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "id": 1046032,
+        "original_language": "en",
+        "original_title": "The Bad Guys: A Very Bad Holiday",
+        "overview": "To keep their annual Holiday Heist-tacular afloat, Mr. Wolf and his crew of animal outlaws will have to restore the whole city's Christmas spirit — fast!",
+        "popularity": 674.721,
+        "poster_path": "/atBDD05PbVDI2lm2OUy1KFQpzen.jpg",
+        "release_date": "2023-11-30",
+        "title": "The Bad Guys: A Very Bad Holiday",
+        "video": false,
+        "vote_average": 6.071,
+        "vote_count": 28
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+        "genre_ids": [
+          878,
+          12,
+          28
+        ],
+        "id": 609681,
+        "original_language": "en",
+        "original_title": "The Marvels",
+        "overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+        "popularity": 624.688,
+        "poster_path": "/3sXv15ymVkaV7E18m4TlTgwNkAN.jpg",
+        "release_date": "2023-11-08",
+        "title": "The Marvels",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 648
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bWIIWhnaoWx3FTVXv6GkYDv3djL.jpg",
+        "genre_ids": [
+          18,
+          878,
+          28
+        ],
+        "id": 940721,
+        "original_language": "ja",
+        "original_title": "ゴジラ-1.0",
+        "overview": "In postwar Japan, a new terror rises. Will the devastated people be able to survive... let alone fight back?",
+        "popularity": 563.619,
+        "poster_path": "/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg",
+        "release_date": "2023-11-03",
+        "title": "Godzilla Minus One",
+        "video": false,
+        "vote_average": 8.473,
+        "vote_count": 93
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gOJJjBB1aj6vqzuJLspERcwZuPQ.jpg",
+        "genre_ids": [
+          10751,
+          12,
+          35,
+          10770
+        ],
+        "id": 936059,
+        "original_language": "en",
+        "original_title": "The Naughty Nine",
+        "overview": "Fifth-grader Andy finds himself without a present from Santa on Christmas morning. Realizing he must have landed on the “naughty list” and feeling unfairly maligned, Andy pulls together a team of eight other naughty-listers to help him execute an elaborate heist on Santa’s Village at the North Pole to get the presents they feel they deserve.",
+        "popularity": 507.276,
+        "poster_path": "/e0lSKnfAB0p2FJ5roEwjAyy0EA0.jpg",
+        "release_date": "2023-11-22",
+        "title": "The Naughty Nine",
+        "video": false,
+        "vote_average": 6.212,
+        "vote_count": 26
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sp6egj5NHHRGmCMdIoTNdbLwACR.jpg",
+        "genre_ids": [
+          35,
+          14,
+          10751
+        ],
+        "id": 1022964,
+        "original_language": "en",
+        "original_title": "Candy Cane Lane",
+        "overview": "A man, determined to win the neighborhood's annual Christmas decorating contest, makes a pact with an elf to help him win. However, the elf casts a spell bringing the twelve days of Christmas to life, bringing chaos to the small, unsuspecting town.",
+        "popularity": 445.791,
+        "poster_path": "/2pYgOBtBaFxAELQGj6p86vuIhhG.jpg",
+        "release_date": "2023-11-29",
+        "title": "Candy Cane Lane",
+        "video": false,
+        "vote_average": 6.394,
+        "vote_count": 142
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/f1AQhx6ZfGhPZFTVKgxG91PhEYc.jpg",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "id": 753342,
+        "original_language": "en",
+        "original_title": "Napoleon",
+        "overview": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+        "popularity": 405.834,
+        "poster_path": "/jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg",
+        "release_date": "2023-11-22",
+        "title": "Napoleon",
+        "video": false,
+        "vote_average": 6.427,
+        "vote_count": 665
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z6OkT7XjzSrgstiTlld0jUvME9y.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          53,
+          878
+        ],
+        "id": 726209,
+        "original_language": "en",
+        "original_title": "Leave the World Behind",
+        "overview": "A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices — and two strangers appear at their door.",
+        "popularity": 373.155,
+        "poster_path": "/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",
+        "release_date": "2023-11-22",
+        "title": "Leave the World Behind",
+        "video": false,
+        "vote_average": 6.71,
+        "vote_count": 372
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ehumsuIBbgAe1hg343oszCLrAfI.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          14,
+          12
+        ],
+        "id": 1022796,
+        "original_language": "en",
+        "original_title": "Wish",
+        "overview": "Asha, a sharp-witted idealist, makes a wish so powerful that it is answered by a cosmic force – a little ball of boundless energy called Star. Together, Asha and Star confront a most formidable foe - the ruler of Rosas, King Magnifico - to save her community and prove that when the will of one courageous human connects with the magic of the stars, wondrous things can happen.",
+        "popularity": 365.104,
+        "poster_path": "/AcoVfiv1rrWOmAdpnAMnM56ki19.jpg",
+        "release_date": "2023-11-13",
+        "title": "Wish",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 104
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dZbLqRjjiiNCpTYzhzL2NMvz4J0.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 951491,
+        "original_language": "en",
+        "original_title": "Saw X",
+        "overview": "Between the events of 'Saw' and 'Saw II', a sick and desperate John Kramer travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer, only to discover the entire operation is a scam to defraud the most vulnerable. Armed with a newfound purpose, the infamous serial killer returns to his work, turning the tables on the con artists in his signature visceral way through devious, deranged, and ingenious traps.",
+        "popularity": 389.382,
+        "poster_path": "/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg",
+        "release_date": "2023-09-26",
+        "title": "Saw X",
+        "video": false,
+        "vote_average": 7.392,
+        "vote_count": 1237
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pA3vdhadJPxF5GA1uo8OPTiNQDT.jpg",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "id": 678512,
+        "original_language": "en",
+        "original_title": "Sound of Freedom",
+        "overview": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
+        "popularity": 318.582,
+        "poster_path": "/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+        "release_date": "2023-07-03",
+        "title": "Sound of Freedom",
+        "video": false,
+        "vote_average": 8.092,
+        "vote_count": 1583
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/azD31DjpV3PJfjF3h72LVw2WCSD.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 807172,
+        "original_language": "en",
+        "original_title": "The Exorcist: Believer",
+        "overview": "When two girls disappear into the woods and return three days later with no memory of what happened to them, the father of one girl seeks out Chris MacNeil, who's been forever altered by what happened to her daughter fifty years ago.",
+        "popularity": 306.755,
+        "poster_path": "/fFXkAlMH2iQrNknv4eq7LGTkcti.jpg",
+        "release_date": "2023-10-04",
+        "title": "The Exorcist: Believer",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 648
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fc2pEZgr0ltmyzLl4cO9JInOg6l.jpg",
+        "genre_ids": [
+          35,
+          14,
+          10751
+        ],
+        "id": 798021,
+        "original_language": "en",
+        "original_title": "Family Switch",
+        "overview": "When the Walker family members switch bodies with each other during a rare planetary alignment, their hilarious journey to find their way back to normal will bring them closer together than they ever thought possible.",
+        "popularity": 339.695,
+        "poster_path": "/fnRUCA0fjEb3kuIaTGogL7425IC.jpg",
+        "release_date": "2023-11-30",
+        "title": "Family Switch",
+        "video": false,
+        "vote_average": 6.456,
+        "vote_count": 238
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg",
+        "genre_ids": [
+          28,
+          53,
+          80
+        ],
+        "id": 762430,
+        "original_language": "en",
+        "original_title": "Retribution",
+        "overview": "When a mysterious caller puts a bomb under his car seat, Matt Turner begins a high-speed chase across the city to complete a specific series of tasks- all with his kids trapped in the back seat.",
+        "popularity": 323.957,
+        "poster_path": "/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",
+        "release_date": "2023-08-23",
+        "title": "Retribution",
+        "video": false,
+        "vote_average": 6.979,
+        "vote_count": 717
+      }
+    ]
+  ],
+  "recommendedMovies": [
+    [
+      {
+        "adult": false,
+        "backdrop_path": "/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "id": 897087,
+        "original_language": "en",
+        "original_title": "Freelance",
+        "overview": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+        "popularity": 2367.027,
+        "poster_path": "/zDb5YeHSGGMlS6eqhUXcVU2OzAJ.jpg",
+        "release_date": "2023-10-05",
+        "title": "Freelance",
+        "video": false,
+        "vote_average": 6.419,
+        "vote_count": 192
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1X7vow16X7CnCoexXh4H4F2yDJv.jpg",
+        "genre_ids": [
+          80,
+          18,
+          36
+        ],
+        "id": 466420,
+        "original_language": "en",
+        "original_title": "Killers of the Flower Moon",
+        "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.",
+        "popularity": 1806.389,
+        "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+        "release_date": "2023-10-18",
+        "title": "Killers of the Flower Moon",
+        "video": false,
+        "vote_average": 7.704,
+        "vote_count": 1267
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k1KrbaCMACQiq7EA0Yhw3bdzMv7.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          10402,
+          14,
+          35
+        ],
+        "id": 901362,
+        "original_language": "en",
+        "original_title": "Trolls Band Together",
+        "overview": "When Branch's brother, Floyd, is kidnapped for his musical talents by a pair of nefarious pop-star villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop-culture obscurity.",
+        "popularity": 1560.713,
+        "poster_path": "/sEaLO9s7CIN3fjz8R3Qksum44en.jpg",
+        "release_date": "2023-10-12",
+        "title": "Trolls Band Together",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 325
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9PqD3wSIjntyJDBzMNuxuKHwpUD.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "id": 1075794,
+        "original_language": "en",
+        "original_title": "Leo",
+        "overview": "Jaded 74-year-old lizard Leo has been stuck in the same Florida classroom for decades with his terrarium-mate turtle. When he learns he only has one year left to live, he plans to escape to experience life on the outside but instead gets caught up in the problems of his anxious students — including an impossibly mean substitute teacher.",
+        "popularity": 1303.89,
+        "poster_path": "/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",
+        "release_date": "2023-11-17",
+        "title": "Leo",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 499
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
+        "genre_ids": [
+          35,
+          10751,
+          14
+        ],
+        "id": 787699,
+        "original_language": "en",
+        "original_title": "Wonka",
+        "overview": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+        "popularity": 1256.256,
+        "poster_path": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+        "release_date": "2023-12-06",
+        "title": "Wonka",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 61
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 872585,
+        "original_language": "en",
+        "original_title": "Oppenheimer",
+        "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+        "popularity": 1071.012,
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "release_date": "2023-07-19",
+        "title": "Oppenheimer",
+        "video": false,
+        "vote_average": 8.14,
+        "vote_count": 5316
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jhpsTzbXEu5bkCPmBqxv7vUTjIT.jpg",
+        "genre_ids": [
+          14,
+          12,
+          878,
+          28
+        ],
+        "id": 566810,
+        "original_language": "en",
+        "original_title": "Dragon Kingdom",
+        "overview": "To save their Kingdom from an army of undead, a group of warriors must travel through the forbidden lands fighting the fearsome beasts that call The Dark Kingdom their home.",
+        "popularity": 1184.555,
+        "poster_path": "/o7StI2iR8yY1N67meSkNcXfojyD.jpg",
+        "release_date": "2018-11-26",
+        "title": "The Dark Kingdom",
+        "video": false,
+        "vote_average": 5.348,
+        "vote_count": 33
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3xvdNyZ9WsVJpyeGhm85fukeZz4.jpg",
+        "genre_ids": [
+          878,
+          9648,
+          53
+        ],
+        "id": 1001835,
+        "original_language": "en",
+        "original_title": "Wifelike",
+        "overview": "A grieving detective in the near-future hunts down criminals who trade artificial humans on the black market. In the fight to end AI exploitation, an underground resistance attempts to infiltrate him by sabotaging the programming of the artificial human assigned as his companion to behave like his late wife. She begins to question her reality as memories of a past life begin to surface in a world where nothing is as it seems.",
+        "popularity": 905.273,
+        "poster_path": "/tea2gDZPxw0wfKC2S2VRWHagtt4.jpg",
+        "release_date": "2022-08-12",
+        "title": "Wifelike",
+        "video": false,
+        "vote_average": 7.101,
+        "vote_count": 188
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t5zCBSB5xMDKcDqe91qahCOUYVV.jpg",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "id": 507089,
+        "original_language": "en",
+        "original_title": "Five Nights at Freddy's",
+        "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+        "popularity": 880.311,
+        "poster_path": "/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
+        "release_date": "2023-10-25",
+        "title": "Five Nights at Freddy's",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 2738
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mIpdOcss3oedSYB8juiSXg89uLL.jpg",
+        "genre_ids": [
+          28,
+          878,
+          12,
+          53
+        ],
+        "id": 479753,
+        "original_language": "en",
+        "original_title": "Shockwave: Countdown to Disaster",
+        "overview": "A stolen seismic weapon is activated in Yemen. A hostage freed there tries in vain to warn against its global effect. It starts seismic activity at the Californian fault line where her daughter and ex are monitoring it. Can they stop it?",
+        "popularity": 1049.257,
+        "poster_path": "/sBD608VF4TcFHmP7SuC0OcvZQ0b.jpg",
+        "release_date": "2017-09-02",
+        "title": "Shockwave: Countdown to Disaster",
+        "video": false,
+        "vote_average": 5.577,
+        "vote_count": 52
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg",
+        "genre_ids": [
+          28,
+          12,
+          18
+        ],
+        "id": 670292,
+        "original_language": "en",
+        "original_title": "The Creator",
+        "overview": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war—and mankind itself.",
+        "popularity": 852.508,
+        "poster_path": "/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg",
+        "release_date": "2023-09-27",
+        "title": "The Creator",
+        "video": false,
+        "vote_average": 7.123,
+        "vote_count": 1378
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4MUfDtBqUFqotGF5RJOfNfoBTLo.jpg",
+        "genre_ids": [
+          28,
+          27,
+          14
+        ],
+        "id": 951546,
+        "original_language": "en",
+        "original_title": "Reign of Chaos",
+        "overview": "When the world is gripped by a plague unleashed by the evil lord Chaos, and humans are turned into rabid creatures, mankind can only be saved by three young women, descendants of a Goddess, with the power to stop Chaos' evil.",
+        "popularity": 869.204,
+        "poster_path": "/nTMmpvR9TyV631tpFr4FtYxG0FC.jpg",
+        "release_date": "2022-04-12",
+        "title": "Reign of Chaos",
+        "video": false,
+        "vote_average": 5.545,
+        "vote_count": 23
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
+        "genre_ids": [
+          28,
+          10749,
+          18
+        ],
+        "id": 695721,
+        "original_language": "en",
+        "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+        "popularity": 722.276,
+        "poster_path": "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+        "release_date": "2023-11-15",
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "video": false,
+        "vote_average": 7.294,
+        "vote_count": 644
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 385687,
+        "original_language": "en",
+        "original_title": "Fast X",
+        "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+        "popularity": 794.03,
+        "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+        "release_date": "2023-05-17",
+        "title": "Fast X",
+        "video": false,
+        "vote_average": 7.198,
+        "vote_count": 4427
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oqbcmZJJ1EWkOPiGjqABaUN18rI.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "id": 1046032,
+        "original_language": "en",
+        "original_title": "The Bad Guys: A Very Bad Holiday",
+        "overview": "To keep their annual Holiday Heist-tacular afloat, Mr. Wolf and his crew of animal outlaws will have to restore the whole city's Christmas spirit — fast!",
+        "popularity": 674.721,
+        "poster_path": "/atBDD05PbVDI2lm2OUy1KFQpzen.jpg",
+        "release_date": "2023-11-30",
+        "title": "The Bad Guys: A Very Bad Holiday",
+        "video": false,
+        "vote_average": 6.071,
+        "vote_count": 28
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ixhr0YVs0Du0fPIYQSYYOIf3j0R.jpg",
+        "genre_ids": [
+          878,
+          28
+        ],
+        "id": 854648,
+        "original_language": "en",
+        "original_title": "Robot Apocalypse",
+        "overview": "An expert hacker is targeted by a sentient AI after she realizes the threat it poses, and she must try to stay off its radar long enough to stop it.",
+        "popularity": 877.365,
+        "poster_path": "/hULzHYoJRyLmQgMXHh2AwFM83uY.jpg",
+        "release_date": "2021-07-26",
+        "title": "Robot Apocalypse",
+        "video": false,
+        "vote_average": 2.1,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+        "genre_ids": [
+          878,
+          12,
+          28
+        ],
+        "id": 609681,
+        "original_language": "en",
+        "original_title": "The Marvels",
+        "overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+        "popularity": 624.688,
+        "poster_path": "/3sXv15ymVkaV7E18m4TlTgwNkAN.jpg",
+        "release_date": "2023-11-08",
+        "title": "The Marvels",
+        "video": false,
+        "vote_average": 6.558,
+        "vote_count": 648
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iaMIylLoN7Y3CvrA0pg2ZFKjk26.jpg",
+        "genre_ids": [
+          10752,
+          18,
+          28
+        ],
+        "id": 1047925,
+        "original_language": "en",
+        "original_title": "Come Out Fighting",
+        "overview": "In WWII, a squad of U.S. African-American soldiers are sent on a rescue mission behind enemy lines to locate their lost commanding officer and a downed fighter pilot.",
+        "popularity": 684.519,
+        "poster_path": "/sERwJxz0sqsbcUoTm66l9pI6HcH.jpg",
+        "release_date": "2023-05-19",
+        "title": "Come Out Fighting",
+        "video": false,
+        "vote_average": 5.06,
+        "vote_count": 25
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 575264,
+        "original_language": "en",
+        "original_title": "Mission: Impossible - Dead Reckoning Part One",
+        "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
+        "popularity": 673.339,
+        "poster_path": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+        "release_date": "2023-07-08",
+        "title": "Mission: Impossible - Dead Reckoning Part One",
+        "video": false,
+        "vote_average": 7.591,
+        "vote_count": 2663
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j9LX1sF7WSXmJlnhf0RGpWzEC0i.jpg",
+        "genre_ids": [
+          28,
+          12,
+          53
+        ],
+        "id": 299054,
+        "original_language": "en",
+        "original_title": "Expend4bles",
+        "overview": "Armed with every weapon they can get their hands on and the skills to use them, The Expendables are the world’s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give “new blood” a whole new meaning.",
+        "popularity": 724.55,
+        "poster_path": "/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
+        "release_date": "2023-09-15",
+        "title": "Expend4bles",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 881
+      }
+    ]
+  ],
+  "tvSeries": [
+    [
+      {
+        "backdrop_path": "/oOce9hLMVFubjAJliau4kiSNPnW.jpg",
+        "first_air_date": "1990-09-13",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 549,
+        "name": "Law & Order",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Law & Order",
+        "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+        "popularity": 5112.196,
+        "poster_path": "/77OPlbsvX3pzoFbyfpcE3GXMCod.jpg",
+        "vote_average": 7.4,
+        "vote_count": 480
+      },
+      {
+        "backdrop_path": "/mc3rG5M9dFVjMfaCFNfbD5gu2pK.jpg",
+        "first_air_date": "2005-02-06",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 1433,
+        "name": "American Dad!",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "American Dad!",
+        "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+        "popularity": 4920.196,
+        "poster_path": "/xnFFz3etm1vftF0ns8RMHA8XdqT.jpg",
+        "vote_average": 7,
+        "vote_count": 1908
+      },
+      {
+        "backdrop_path": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+        "first_air_date": "1952-12-26",
+        "genre_ids": [
+          10763
+        ],
+        "id": 94722,
+        "name": "Tagesschau",
+        "origin_country": [
+          "DE"
+        ],
+        "original_language": "de",
+        "original_name": "Tagesschau",
+        "overview": "German daily news program, the oldest still existing program on German television.",
+        "popularity": 3342.273,
+        "poster_path": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "vote_average": 6.9,
+        "vote_count": 186
+      },
+      {
+        "backdrop_path": "/wU1y7snEVYiJBpZ2k1DjIpHgJbx.jpg",
+        "first_air_date": "1999-01-31",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 1434,
+        "name": "Family Guy",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Family Guy",
+        "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+        "popularity": 3028.144,
+        "poster_path": "/hw2vi8agaJZ7oeSvS8uEYgOtK32.jpg",
+        "vote_average": 7.3,
+        "vote_count": 3981
+      },
+      {
+        "backdrop_path": "/nVRyd8hlg0ZLxBn9RaI7mUMQLnz.jpg",
+        "first_air_date": "2005-09-13",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "id": 1622,
+        "name": "Supernatural",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Supernatural",
+        "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+        "popularity": 2782.78,
+        "poster_path": "/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
+        "vote_average": 8.3,
+        "vote_count": 7007
+      },
+      {
+        "backdrop_path": "/218ZehBKlH8efPRRccmB7bu0oLQ.jpg",
+        "first_air_date": "2023-09-25",
+        "genre_ids": [
+          35,
+          9648,
+          10766,
+          18
+        ],
+        "id": 219109,
+        "name": "Elas por Elas",
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Elas por Elas",
+        "overview": "Seven friends who met in their youth at an English course meet again 25 years later; Lara, Taís, Helena, Adriana, Renée, Natália and Carol, each of them has a different personality and origin, but they share a deep affection.",
+        "popularity": 2725.25,
+        "poster_path": "/m0cvvnhnRXdQhLARx7qt9lz7hTE.jpg",
+        "vote_average": 5.8,
+        "vote_count": 30
+      },
+      {
+        "backdrop_path": "/ds1n5P0Y92cTh6UpbcA89hxM96a.jpg",
+        "first_air_date": "2005-03-27",
+        "genre_ids": [
+          18
+        ],
+        "id": 1416,
+        "name": "Grey's Anatomy",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Grey's Anatomy",
+        "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+        "popularity": 2631.675,
+        "poster_path": "/daSFbrt8QCXV2hSwB0hqYjbj681.jpg",
+        "vote_average": 8.3,
+        "vote_count": 9665
+      },
+      {
+        "backdrop_path": "/iU6XAlXlG9GTIRkRYEcQoJYInDf.jpg",
+        "first_air_date": "1998-10-07",
+        "genre_ids": [
+          35,
+          18,
+          9648,
+          10765
+        ],
+        "id": 1981,
+        "name": "Charmed",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Charmed",
+        "overview": "Three sisters (Prue, Piper and Phoebe) reunite and unlock their powers to become the Charmed Ones, the most powerful good witches of all time, whose prophesied destiny is to protect innocent lives from evil beings such as demons and warlocks. Each sister possesses unique magical powers that grow and evolve, while they attempt to maintain normal lives in modern day San Francisco. ",
+        "popularity": 2424.051,
+        "poster_path": "/z4bPJ1BWU2EtV69NII2GVvsugQ2.jpg",
+        "vote_average": 8.2,
+        "vote_count": 2105
+      },
+      {
+        "backdrop_path": "/d7cH4zt3xoqRQnLqYXMPOrUz5k3.jpg",
+        "first_air_date": "1971-09-15",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 873,
+        "name": "Columbo",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Columbo",
+        "overview": "Columbo is a friendly, verbose, disheveled-looking police detective who is consistently underestimated by his suspects. Despite his unprepossessing appearance and apparent absentmindedness, he shrewdly solves all of his cases and secures all evidence needed for indictment. His formidable eye for detail and meticulously dedicated approach often become clear to the killer only late in the storyline.",
+        "popularity": 2384.953,
+        "poster_path": "/2JCD8vab3fircOU8cM2HJCxfv4I.jpg",
+        "vote_average": 8,
+        "vote_count": 585
+      },
+      {
+        "backdrop_path": "/hwUQsL1cWt0bmbTxzCompqqvTH9.jpg",
+        "first_air_date": "2004-01-22",
+        "genre_ids": [
+          10764
+        ],
+        "id": 82250,
+        "name": "Gran hermano VIP",
+        "origin_country": [
+          "ES"
+        ],
+        "original_language": "es",
+        "original_name": "Gran hermano VIP",
+        "overview": "",
+        "popularity": 2214.4,
+        "poster_path": "/9269PATr0bmEXKjkpR88mzGmNYI.jpg",
+        "vote_average": 4.1,
+        "vote_count": 16
+      },
+      {
+        "backdrop_path": "/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+        "first_air_date": "1997-03-23",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 764,
+        "name": "Midsomer Murders",
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Midsomer Murders",
+        "overview": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+        "popularity": 2207.1,
+        "poster_path": "/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
+        "vote_average": 7.6,
+        "vote_count": 256
+      },
+      {
+        "backdrop_path": "/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+        "first_air_date": "1989-12-17",
+        "genre_ids": [
+          10751,
+          16,
+          35
+        ],
+        "id": 456,
+        "name": "The Simpsons",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Simpsons",
+        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+        "popularity": 2146.596,
+        "poster_path": "/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+        "vote_average": 8,
+        "vote_count": 9287
+      },
+      {
+        "backdrop_path": "/2sjy8Tu8PJGFQI4Foz4682qk8Mw.jpg",
+        "first_air_date": "2002-09-23",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "id": 1620,
+        "name": "CSI: Miami",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "CSI: Miami",
+        "overview": "CSI: Miami follows Crime Scene Investigators working for the Miami-Dade Police Department as they use physical evidence, similar to their Las Vegas counterparts, to solve grisly murders. The series mixes deduction, gritty subject matter, and character-driven drama in the same vein as the original series in the CSI franchise, except that the Miami CSIs are cops first, scientists second.",
+        "popularity": 2122.7,
+        "poster_path": "/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
+        "vote_average": 7.7,
+        "vote_count": 1487
+      },
+      {
+        "backdrop_path": "/e9n87p3Ax67spq3eUgLB6rjIEow.jpg",
+        "first_air_date": "2005-09-13",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 1911,
+        "name": "Bones",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Bones",
+        "overview": "Dr. Temperance Brennan and her colleagues at the Jeffersonian's Medico-Legal Lab assist Special Agent Seeley Booth with murder investigations when the remains are so badly decomposed, burned or destroyed that the standard identification methods are useless.",
+        "popularity": 2101.777,
+        "poster_path": "/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+        "vote_average": 8.3,
+        "vote_count": 2935
+      },
+      {
+        "backdrop_path": "/7ajRFaUz7dW9IPsGagM8cubXPrB.jpg",
+        "first_air_date": "2005-09-22",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 4057,
+        "name": "Criminal Minds",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Criminal Minds",
+        "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+        "popularity": 2042.307,
+        "poster_path": "/7TCwgX7oQKxcWYEhSPRmaHe6ULN.jpg",
+        "vote_average": 8.3,
+        "vote_count": 3468
+      },
+      {
+        "backdrop_path": "/xWftQWlvdbgZx2uloutTVHc7CNP.jpg",
+        "first_air_date": "2005-09-23",
+        "genre_ids": [
+          10765,
+          9648,
+          18
+        ],
+        "id": 1606,
+        "name": "Ghost Whisperer",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Ghost Whisperer",
+        "overview": "Newlywed Melinda Gordon tries to help the dead communicate with loved ones, but sometimes the messages she receives are intense and confusing. Most of Melinda's efforts involve resolving conflicts that are preventing the spirits from passing over.",
+        "popularity": 2013.679,
+        "poster_path": "/nIboXXCporMO9Xskq7Rsf45Z6qW.jpg",
+        "vote_average": 8.1,
+        "vote_count": 1584
+      },
+      {
+        "backdrop_path": "/dVpAGo3TT2IjDyRuKwhNfe9E1A5.jpg",
+        "first_air_date": "2005-01-03",
+        "genre_ids": [
+          80,
+          18,
+          9648,
+          10765
+        ],
+        "id": 36,
+        "name": "Medium",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Medium",
+        "overview": "Allison Dubois works in the District Attorney’s office using her natural intuition about people and her ability to communicate with the dead to help to solve crimes. Her dreams often give her clues to the whereabouts of missing people.",
+        "popularity": 1995.996,
+        "poster_path": "/aqawO5mYblDRwEmHjMiLJa8LyIr.jpg",
+        "vote_average": 7.6,
+        "vote_count": 478
+      },
+      {
+        "backdrop_path": "/qmliLoo6GVheM2FihatlAXxCKyF.jpg",
+        "first_air_date": "1987-09-28",
+        "genre_ids": [
+          10765,
+          10759,
+          18,
+          9648
+        ],
+        "id": 655,
+        "name": "Star Trek: The Next Generation",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Star Trek: The Next Generation",
+        "overview": "Follow the intergalactic adventures of Capt. Jean-Luc Picard and his loyal crew aboard the all-new USS Enterprise NCC-1701D, as they explore new worlds.",
+        "popularity": 1978.991,
+        "poster_path": "/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
+        "vote_average": 8.4,
+        "vote_count": 1309
+      },
+      {
+        "backdrop_path": "/aUKBmiyU8xAmxVfwJQSuUQD6Cpl.jpg",
+        "first_air_date": "1963-11-23",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "id": 121,
+        "name": "Doctor Who",
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Doctor Who",
+        "overview": "The adventures of The Doctor, a time-traveling humanoid alien known as a Time Lord. He explores the universe in his TARDIS, a sentient time-traveling spaceship. Its exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. Along with a succession of companions, The Doctor faces a variety of foes while working to save civilizations, help ordinary people, and right many wrongs.",
+        "popularity": 1891.946,
+        "poster_path": "/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+        "vote_average": 7.9,
+        "vote_count": 532
+      },
+      {
+        "backdrop_path": "/xEtiiv2uhGr9IPgeruuECIfyfin.jpg",
+        "first_air_date": "2009-03-09",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 1419,
+        "name": "Castle",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Castle",
+        "overview": "After a serial killer imitates the plots of his novels, successful mystery novelist Richard \"Rick\" Castle receives permission from the Mayor of New York City to tag along with an NYPD homicide investigation team for research purposes.",
+        "popularity": 1888.697,
+        "poster_path": "/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg",
+        "vote_average": 8,
+        "vote_count": 1669
+      }
+    ]
+  ],
+  "bookmarked": [
+    {
+      "backdrop_path": "/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+      "first_air_date": "1989-12-17",
+      "genre_ids": [
+        10751,
+        16,
+        35
+      ],
+      "id": 456,
+      "name": "The Simpsons",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Simpsons",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "popularity": 2146.596,
+      "poster_path": "/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+      "vote_average": 8,
+      "vote_count": 9287
+    },
+    {
+      "backdrop_path": "/e9n87p3Ax67spq3eUgLB6rjIEow.jpg",
+      "first_air_date": "2005-09-13",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 1911,
+      "name": "Bones",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Bones",
+      "overview": "Dr. Temperance Brennan and her colleagues at the Jeffersonian's Medico-Legal Lab assist Special Agent Seeley Booth with murder investigations when the remains are so badly decomposed, burned or destroyed that the standard identification methods are useless.",
+      "popularity": 2101.777,
+      "poster_path": "/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+      "vote_average": 8.3,
+      "vote_count": 2935
+    },
+    {
+      "backdrop_path": "/xWftQWlvdbgZx2uloutTVHc7CNP.jpg",
+      "first_air_date": "2005-09-23",
+      "genre_ids": [
+        10765,
+        9648,
+        18
+      ],
+      "id": 1606,
+      "name": "Ghost Whisperer",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Ghost Whisperer",
+      "overview": "Newlywed Melinda Gordon tries to help the dead communicate with loved ones, but sometimes the messages she receives are intense and confusing. Most of Melinda's efforts involve resolving conflicts that are preventing the spirits from passing over.",
+      "popularity": 2013.679,
+      "poster_path": "/nIboXXCporMO9Xskq7Rsf45Z6qW.jpg",
+      "vote_average": 8.1,
+      "vote_count": 1584
+    },
+    {
+      "backdrop_path": "/aUKBmiyU8xAmxVfwJQSuUQD6Cpl.jpg",
+      "first_air_date": "1963-11-23",
+      "genre_ids": [
+        10759,
+        18,
+        10765
+      ],
+      "id": 121,
+      "name": "Doctor Who",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Doctor Who",
+      "overview": "The adventures of The Doctor, a time-traveling humanoid alien known as a Time Lord. He explores the universe in his TARDIS, a sentient time-traveling spaceship. Its exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. Along with a succession of companions, The Doctor faces a variety of foes while working to save civilizations, help ordinary people, and right many wrongs.",
+      "popularity": 1891.946,
+      "poster_path": "/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+      "vote_average": 7.9,
+      "vote_count": 532
+    },
+    {
+      "backdrop_path": "/xEtiiv2uhGr9IPgeruuECIfyfin.jpg",
+      "first_air_date": "2009-03-09",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 1419,
+      "name": "Castle",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Castle",
+      "overview": "After a serial killer imitates the plots of his novels, successful mystery novelist Richard \"Rick\" Castle receives permission from the Mayor of New York City to tag along with an NYPD homicide investigation team for research purposes.",
+      "popularity": 1888.697,
+      "poster_path": "/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg",
+      "vote_average": 8,
+      "vote_count": 1669
+    }
+  ]
 }
-
-

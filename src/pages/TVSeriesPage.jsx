@@ -3,22 +3,29 @@ import { useDispatch, useSelector } from "react-redux";
 import { useEffect } from "react";
 import TVSeriesShow from "../components/TVSeriesShow";
 
-function TVSeriesPage(){
-    // const dispatch = useDispatch();
-    const series = useSelector(state => state.movies.tvSeries)
+function TVSeriesPage() {
+  const dispatch = useDispatch();
+  const search = useSelector((state) => state.search);
+  const series = useSelector((state) => state.movies.tvSeries);
 
-    // useEffect(() => {
-    //     dispatch(fetchTVSeries());
-    // },[])
+  useEffect(() => {
+    dispatch(fetchTVSeries());
+  }, []);
 
-    const renderSeries = series.map(series => {
-        return <TVSeriesShow key={series.id} series={series} />
-    })
+  const renderSeries = series
+    .filter((series) =>
+      series.original_name.toLowerCase().includes(search.toLowerCase())
+    )
+    .map((series) => {
+      return <TVSeriesShow key={series.id} series={series} />;
+    });
 
-    return <div>
-        <h3>TV Series</h3>
-        {renderSeries}
+  return (
+    <div className="page">
+      <h2 className="title">TV Series</h2>
+      <div className="movies-container">{renderSeries}</div>
     </div>
+  );
 }
 
 export default TVSeriesPage;

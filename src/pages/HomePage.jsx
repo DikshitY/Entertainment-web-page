@@ -3,14 +3,14 @@ import RecommendedMovies from "../components/recommendedMovie/RecommendedMovies"
 
 function HomePage() {
   return (
-    <div>
-      <div>
-        <h3>Trending Movies</h3>
+    <div className="home page">
+      <div className="trending-section">
+        <h2 className="title">Trending Movies</h2>
         <TrendingMovies />
       </div>
-      <div>
-        <h3>Recommended for you</h3>
-        <RecommendedMovies />
+      <div className="recommended-section">
+        <h2 className="title">Recommended for you</h2>
+          <RecommendedMovies />
       </div>
     </div>
   );

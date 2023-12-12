@@ -6,8 +6,11 @@ import HomePage from "./pages/HomePage";
 import MoviesPage from "./pages/MoviesPage";
 import TVSeriesPage from "./pages/TVSeriesPage";
 import BookmarkedPage from "./pages/BookmarkedPage";
+import { useDispatch } from "react-redux";
+import { fetchBookmarkedMovies } from "./store";
 
 function App() {
+  const dispatch = useDispatch();
   useEffect(() => {
     const fetchData = async () => {
       try {
@@ -30,29 +33,32 @@ function App() {
           "https://api.themoviedb.org/3/discover/tv?api_key=cc4d5b3da2021b4ce4b0139cf2878c78"
         );
         const data4 = response4.data.results;
-          console.log(data1);
-        await axios.put("http://localhost:3007/movies", {movies : data1});
-        // await axios.put("http://localhost:3007/trendingMovies", data2);
-        // await axios.put("http://localhost:3007/recommendedMovies", data3);
-        // await axios.put("http://localhost:3007/tvSeries", data4);
+        console.log(data1);
+        await axios.post("http://localhost:3007/movies", data1);
+        await axios.post("http://localhost:3007/trendingMovies", data2);
+        await axios.post("http://localhost:3007/recommendedMovies", data3);
+        await axios.post("http://localhost:3007/tvSeries", data4);
       } catch (error) {
         console.log("Error fetching data:", error);
       }
     };
     fetchData();
+    dispatch(fetchBookmarkedMovies());
   }, []);
 
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route element={<Layout />}>
-          <Route path="/" element={<HomePage />} />
-          <Route path="movies" element={<MoviesPage />} />
-          <Route path="tvSeries" element={<TVSeriesPage />} />
-          <Route path="bookmarked" element={<BookmarkedPage />} />
-        </Route>
-      </Routes>
-    </BrowserRouter>
+    <div className="main">
+      <BrowserRouter>
+        <Routes>
+          <Route element={<Layout />}>
+            <Route path="/" element={<HomePage />} />
+            <Route path="movies" element={<MoviesPage />} />
+            <Route path="tvSeries" element={<TVSeriesPage />} />
+            <Route path="bookmarked" element={<BookmarkedPage />} />
+          </Route>
+        </Routes>
+      </BrowserRouter>
+    </div>
   );
 }
 

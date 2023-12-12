@@ -6,7 +6,6 @@ const fetchTVSeries = createAsyncThunk("tvSeries/fetch", async () => {
     "http://localhost:3007/tvSeries"
   );
 
-  console.log(response.data);
   return response.data;
 });
 

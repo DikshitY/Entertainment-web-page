@@ -8,22 +8,11 @@ const moviesSlice = createSlice({
   name: "movies",
   initialState: {
     data: [],
-    bookmarkedMovies: [],
     trendingMovies: [],
     recommendedMovies: [],
     tvSeries: [],
     isLoading: false,
     error: null,
-  },
-  reducers:{
-    addBookmark(state, action){
-      state.bookmarkedMovies.push(action.payload)
-    },
-    removeBookmark(state, action){
-      state.bookmarkedMovies = state.bookmarkedMovies.filter(movie => {
-        return movie.id !== action.payload.id
-      })
-    }
   },
   extraReducers(builder) {
     builder.addCase(fetchMovies.pending, (state, action) => {
@@ -31,7 +20,7 @@ const moviesSlice = createSlice({
     });
     builder.addCase(fetchMovies.fulfilled, (state, action) => {
       state.isLoading = false;
-      state.data = action.payload;
+      state.data = action.payload[0];
     });
     builder.addCase(fetchMovies.rejected, (state, action) => {
       state.isLoading = false;
@@ -43,7 +32,7 @@ const moviesSlice = createSlice({
     });
     builder.addCase(fetchTrendingMovies.fulfilled, (state, action) => {
       state.isLoading = false;
-      state.trendingMovies = action.payload;
+      state.trendingMovies = action.payload[0];
     });
     builder.addCase(fetchTrendingMovies.rejected, (state, action) => {
       state.isLoading = false;
@@ -55,7 +44,7 @@ const moviesSlice = createSlice({
     });
     builder.addCase(fetchRecommendedMovies.fulfilled, (state, action) => {
       state.isLoading = false;
-      state.recommendedMovies = action.payload;
+      state.recommendedMovies = action.payload[0];
     });
     builder.addCase(fetchRecommendedMovies.rejected, (state, action) => {
       state.isLoading = false;
@@ -67,7 +56,7 @@ const moviesSlice = createSlice({
     });
     builder.addCase(fetchTVSeries.fulfilled, (state, action) => {
       state.isLoading = false;
-      state.tvSeries = action.payload;
+      state.tvSeries = action.payload[0];
     });
     builder.addCase(fetchTVSeries.rejected, (state, action) => {
       state.isLoading = false;
@@ -76,4 +65,3 @@ const moviesSlice = createSlice({
   },
 });
 export const moviesReducer = moviesSlice.reducer;
-export const {addBookmark, removeBookmark} = moviesSlice.actions;

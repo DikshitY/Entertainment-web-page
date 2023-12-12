@@ -1,23 +1,24 @@
 import { useSelector, useDispatch } from "react-redux";
-import { addBookmark, removeBookmark } from "../../store";
+import { addBookmark, removeBookmark } from "../store";
 import { MdLocalMovies } from "react-icons/md";
+import { PiTelevisionBold } from "react-icons/pi";
 import { FaRegBookmark } from "react-icons/fa";
 import { FaBookmark } from "react-icons/fa";
 import { FaCirclePlay } from "react-icons/fa6";
 
-function RecommendedMovieShow({ movie }) {
+function BookmarkedMovieShow({ item }) {
   const dispatch = useDispatch();
   const isBookmark = useSelector((state) =>
-    state.bookmark.bookmarkedMovies.some((item) => item.id === movie.id)
+    state.bookmark.bookmarkedMovies.some((movie) => movie.id === item.id)
   )
     ? true
     : false;
 
   const handleClick = () => {
     if (isBookmark) {
-      dispatch(removeBookmark(movie));
+      dispatch(removeBookmark(item));
     } else {
-      dispatch(addBookmark(movie));
+      dispatch(addBookmark(item));
     }
   };
 
@@ -25,7 +26,7 @@ function RecommendedMovieShow({ movie }) {
     <div className="movie-wrapper">
       <div className="img-wrapper">
         <img
-          src={`https://image.tmdb.org/t/p/w500${movie.backdrop_path}`}
+          src={`https://image.tmdb.org/t/p/w500${item.backdrop_path}`}
           className="movie-thumbnail"
         />
         <button className="play-btn">
@@ -36,15 +37,17 @@ function RecommendedMovieShow({ movie }) {
         </button>
       </div>
       <div className="detail-wrapper">
-        <p>{movie.release_date}</p>
+        <p>{item.release_date || item.first_air_date}</p>
         &middot;
-        <MdLocalMovies />
+        {item.name ? <PiTelevisionBold /> : <MdLocalMovies />}
         &middot;
-        <p>Movie</p>
+        <p>{item.name ? "TV Series" : "Movie"}</p>
         &middot;
-        <p>{movie.vote_average}</p>
+        <p>{item.vote_average}</p>
       </div>
-      <h3 className="movie-title">{movie.original_title}</h3>
+      <h3 className="movie-title">
+        {item.original_title || item.original_name}
+      </h3>
       <button className="bookmark-btn" onClick={handleClick}>
         {isBookmark ? <FaBookmark /> : <FaRegBookmark />}
       </button>
@@ -52,4 +55,4 @@ function RecommendedMovieShow({ movie }) {
   );
 }
 
-export default RecommendedMovieShow;
+export default BookmarkedMovieShow;

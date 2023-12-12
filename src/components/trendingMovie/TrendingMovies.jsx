@@ -5,22 +5,21 @@ import TrendingMovieShow from "./TrendingMovieShow";
 
 function TrendingMovies() {
   const dispatch = useDispatch();
+  const search = useSelector((state) => state.search);
   const trendingMovies = useSelector((state) => state.movies.trendingMovies);
 
   useEffect(() => {
-      dispatch(fetchTrendingMovies())
-  }, [])
-  const renderMovies = trendingMovies.map(movie => {
-      return (
-          <TrendingMovieShow key={movie.id} movie={movie}/>
-      )
-  })
+    dispatch(fetchTrendingMovies());
+  }, []);
+  const renderMovies = trendingMovies
+    .filter((movie) =>
+      movie.original_title.toLowerCase().includes(search.toLowerCase())
+    )
+    .map((movie) => {
+      return <TrendingMovieShow key={movie.id} movie={movie} />;
+    });
 
-  return (
-    <div>
-      {renderMovies}
-    </div>
-  );
+  return <div className="trending-container">{renderMovies}</div>;
 }
 
 export default TrendingMovies;

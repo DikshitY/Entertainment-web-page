@@ -5,6 +5,7 @@ import RecommendedMovieShow from "./RecommendedMovieShow";
 
 function RecommendedMovies() {
   const dispatch = useDispatch();
+  const search = useSelector((state) => state.search);
   const recommendedMovies = useSelector(
     (state) => state.movies.recommendedMovies
   );
@@ -12,15 +13,15 @@ function RecommendedMovies() {
   useEffect(() => {
     dispatch(fetchRecommendedMovies());
   }, []);
-  const renderMovies = recommendedMovies.map(movie => {
-    return <RecommendedMovieShow movie={movie} key={movie.id}/>
-  })
+  const renderMovies = recommendedMovies
+    .filter((movie) =>
+      movie.original_title.toLowerCase().includes(search.toLowerCase())
+    )
+    .map((movie) => {
+      return <RecommendedMovieShow movie={movie} key={movie.id} />;
+    });
 
-  return (
-    <div>
-      {renderMovies}
-    </div>
-  );
+  return <div className="recommended movies-container">{renderMovies}</div>;
 }
 
 export default RecommendedMovies;
