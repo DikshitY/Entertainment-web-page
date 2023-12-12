@@ -3,7 +3,7 @@ import axios from "axios";
 
 const removeBookmark = createAsyncThunk("bookmark/remove", async (movie) => {
   const response = await axios.delete(
-    `http://localhost:3007/bookmarked/${movie.id}`
+    `https://moviedata-hpht.onrender.com/bookmarked/${movie.id}`
   );
 
   return movie;

@@ -34,10 +34,10 @@ function App() {
         );
         const data4 = response4.data.results;
         console.log(data1);
-        await axios.post("http://localhost:3007/movies", data1);
-        await axios.post("http://localhost:3007/trendingMovies", data2);
-        await axios.post("http://localhost:3007/recommendedMovies", data3);
-        await axios.post("http://localhost:3007/tvSeries", data4);
+        await axios.post("https://moviedata-hpht.onrender.com/movies", data1);
+        await axios.post("https://moviedata-hpht.onrender.com/trendingMovies", data2);
+        await axios.post("https://moviedata-hpht.onrender.com/recommendedMovies", data3);
+        await axios.post("https://moviedata-hpht.onrender.com/tvSeries", data4);
       } catch (error) {
         console.log("Error fetching data:", error);
       }

@@ -5,7 +5,7 @@ const fetchRecommendedMovies = createAsyncThunk(
   "recommendedMovies/fetch",
   async () => {
     const response = await axios.get(
-      "http://localhost:3007/recommendedMovies"
+      "https://moviedata-hpht.onrender.com/recommendedMovies"
     );
 
     return response.data;

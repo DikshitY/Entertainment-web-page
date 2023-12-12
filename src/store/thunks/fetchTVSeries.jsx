@@ -3,7 +3,7 @@ import axios from "axios";
 
 const fetchTVSeries = createAsyncThunk("tvSeries/fetch", async () => {
   const response = await axios.get(
-    "http://localhost:3007/tvSeries"
+    "https://moviedata-hpht.onrender.com/tvSeries"
   );
 
   return response.data;
