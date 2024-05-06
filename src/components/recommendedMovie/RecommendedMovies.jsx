@@ -13,8 +13,8 @@ function RecommendedMovies() {
   useEffect(() => {
     dispatch(fetchRecommendedMovies());
   }, []);
-  const renderMovies = recommendedMovies
-    .filter((movie) =>
+  
+  const renderMovies = recommendedMovies?.filter((movie) =>
       movie.original_title.toLowerCase().includes(search.toLowerCase())
     )
     .map((movie) => {
